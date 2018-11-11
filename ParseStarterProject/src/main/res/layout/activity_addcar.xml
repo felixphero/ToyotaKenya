@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_grey_800"
+    tools:context="com.parse.motors.com.phero.starter.addcar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="38dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imageView"
+                android:layout_width="125dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="79dp"
+                android:layout_height="125dp"
+                android:onClick="addphoto"
+                android:background="@color/white"
+                android:src="@drawable/the_car_add"/>
+
+            <EditText
+                android:id="@+id/make"
+                android:fontFamily="@font/open_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="#00000000"
+                android:hint="@string/car_make"
+                android:inputType="text"
+                android:textColor="@color/white"
+                android:textColorHint="#80ffffff" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="9dp"
+                android:background="#E6ffffff" />
+            <EditText
+                android:id="@+id/model"
+                android:fontFamily="@font/open_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:background="#00000000"
+                android:hint="@string/car_model"
+                android:inputType="text"
+                android:textColor="@color/white"
+                android:textColorHint="#80ffffff" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="9dp"
+                android:background="#E6ffffff" />
+            <EditText
+                android:id="@+id/engine"
+                android:fontFamily="@font/open_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:background="#00000000"
+                android:hint="@string/car_engine"
+                android:inputType="text"
+                android:textColor="@color/white"
+                android:textColorHint="#80ffffff" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="9dp"
+                android:background="#E6ffffff" />
+
+            <EditText
+                android:id="@+id/plate"
+                android:fontFamily="@font/open_sans_regular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="38.8dp"
+                android:background="#00000000"
+                android:hint="@string/car_registeration_number"
+                android:maxLength="6"
+                android:textColor="@color/white"
+                android:textColorHint="#80ffffff" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="9dp"
+                android:background="#E6ffffff" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="9dp"
+                />
+
+            <TextView
+                android:id="@+id/save"
+                android:fontFamily="@font/open_sans_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+                android:textColor="#CCffffff"
+                android:textSize="13.5dp"
+                android:layout_marginTop="15dp"
+                android:padding="15dp"
+                android:letterSpacing="0.3"
+                android:text="@string/add_car"
+                android:onClick="addCar"
+                android:background="@drawable/rect_white"
+                android:gravity="center"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

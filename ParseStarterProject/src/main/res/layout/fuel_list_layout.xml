@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:id="@+id/desc"
+        android:text="@string/fuel_registeration"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fuel_plate"
+        android:id="@+id/fuel_registration"
+        android:layout_toRightOf="@+id/desc"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+   <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_below="@+id/desc"
+        android:id="@+id/price"
+        android:text="@string/fuel_list_date"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fuel_date"
+        android:id="@+id/fuel_date"
+        android:layout_toRightOf="@+id/price"
+        android:layout_below="@+id/desc"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_below="@+id/price"
+        android:id="@+id/stock"
+        android:text="@string/fuel_fuel"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fuel_20_literes"
+        android:id="@+id/fuelAmount"
+        android:layout_toRightOf="@+id/price"
+        android:layout_below="@+id/price"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_below="@+id/stock"
+        android:id="@+id/amount"
+        android:text="@string/fuel_price"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fuel_2000"
+        android:id="@+id/fuel_price"
+        android:layout_toRightOf="@+id/price"
+        android:layout_below="@+id/stock"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+</RelativeLayout>

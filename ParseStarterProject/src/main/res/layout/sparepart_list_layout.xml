@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/spare_RelativeLayout"
+    android:padding="15dp">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/spare_imageView"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_toRightOf="@+id/spare_imageView"
+        android:id="@+id/desc"
+        android:text="@string/spare_description"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sparedescription"
+        android:id="@+id/spare_desc"
+        android:layout_toRightOf="@+id/desc"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_below="@+id/desc"
+        android:layout_toRightOf="@+id/spare_imageView"
+        android:id="@+id/price"
+        android:text="@string/spare_price"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spare_1000"
+        android:id="@+id/spare_price"
+        android:layout_toRightOf="@+id/price"
+        android:layout_below="@+id/desc"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/material_grey_700"
+        android:layout_toRightOf="@+id/spare_imageView"
+        android:layout_below="@+id/price"
+        android:id="@+id/stock"
+        android:text="@string/spare_stock"
+        android:layout_marginLeft="40dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spare_available"
+        android:id="@+id/spare_stock"
+        android:layout_toRightOf="@+id/price"
+        android:layout_below="@+id/price"
+        android:textColor="@color/material_grey_500"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+
+</RelativeLayout>

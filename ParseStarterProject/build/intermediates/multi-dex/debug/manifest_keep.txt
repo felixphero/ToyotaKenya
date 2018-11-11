@@ -1,0 +1,3 @@
+# Referenced at /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.parse.motors.StarterApplication { <init>(...); }
+

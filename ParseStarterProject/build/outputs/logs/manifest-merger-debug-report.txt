@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+MERGED from [com.android.support:multidex:1.0.2] /home/phero/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fc7355fb4109f62ca87f3d02043ea7c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3cbb62d585e77d7c6838014c39a5859/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/5849272429b036a0e45bf9b3cc41cfdb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phero/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecc39665a513dfb9678a44e6355fe94d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:17:1-32:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/phero/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4ce5eafac12b2fab96ad6969883b4f22/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f0b6248dc8447e85794b8db976c97fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/28b6375f8334fb9d9de808a1fec2e522/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b612793d98653ea59a302ee55b31d4d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-104:12
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:22-77
+supports-screens
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-16:40
+	android:largeScreens
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-37
+application
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-102:19
+MERGED from [com.android.support:design:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3cbb62d585e77d7c6838014c39a5859/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3cbb62d585e77d7c6838014c39a5859/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/5849272429b036a0e45bf9b3cc41cfdb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/5849272429b036a0e45bf9b3cc41cfdb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phero/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecc39665a513dfb9678a44e6355fe94d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phero/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecc39665a513dfb9678a44e6355fe94d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:30:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/phero/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4ce5eafac12b2fab96ad6969883b4f22/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/phero/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4ce5eafac12b2fab96ad6969883b4f22/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f0b6248dc8447e85794b8db976c97fc/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f0b6248dc8447e85794b8db976c97fc/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/28b6375f8334fb9d9de808a1fec2e522/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/28b6375f8334fb9d9de808a1fec2e522/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b612793d98653ea59a302ee55b31d4d3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b612793d98653ea59a302ee55b31d4d3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+activity#com.parse.motors.MainActivity
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:27-74
+activity#com.parse.motors.SignUp
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-40:20
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:13-55
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:13-35
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:12-39:49
+	android:value
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:17-46
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:38:17-63
+activity#com.parse.motors.Home
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:9-42
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:19-39
+activity#com.parse.motors.fuel
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:9-45:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:13-33
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:55:9-57:55
+	android:value
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:56:13-58
+activity#com.parse.motors.MyCars_Recycler_Activity
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:59:9-63:59
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:62:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:61:13-70
+	android:theme
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:60:13-53
+activity#com.parse.motors.addcar
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:64:9-67:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:67:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:65:13-35
+activity#com.parse.motors.booking
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:68:9-71:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:71:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:69:13-36
+activity#com.parse.motors.MapsActivity
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:72:9-74:59
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:73:13-41
+activity#com.parse.motors.profile
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:75:9-78:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:78:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:76:13-36
+activity#com.parse.motors.SparePart_Recycler
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:79:9-82:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:82:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:80:13-47
+activity#com.parse.motors.history
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:83:9-86:50
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:86:13-47
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:84:13-36
+activity#com.parse.motors.fuel_history_recycler
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:87:9-90:53
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:90:13-50
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:88:13-50
+activity#com.parse.motors.OrderActivity
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:92:9-97:20
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:95:13-61
+	android:label
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:94:13-45
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:93:13-42
+activity#com.parse.motors.service_history_recycler
+ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:98:9-101:20
+	android:parentActivityName
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:99:13-50
+	android:name
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:98:19-59
+uses-sdk
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /home/phero/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fc7355fb4109f62ca87f3d02043ea7c2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/phero/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/fc7355fb4109f62ca87f3d02043ea7c2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3cbb62d585e77d7c6838014c39a5859/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3cbb62d585e77d7c6838014c39a5859/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/5849272429b036a0e45bf9b3cc41cfdb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/5849272429b036a0e45bf9b3cc41cfdb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phero/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecc39665a513dfb9678a44e6355fe94d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/phero/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecc39665a513dfb9678a44e6355fe94d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/phero/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4ce5eafac12b2fab96ad6969883b4f22/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/phero/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4ce5eafac12b2fab96ad6969883b4f22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f0b6248dc8447e85794b8db976c97fc/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/6f0b6248dc8447e85794b8db976c97fc/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/28b6375f8334fb9d9de808a1fec2e522/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/28b6375f8334fb9d9de808a1fec2e522/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b612793d98653ea59a302ee55b31d4d3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b612793d98653ea59a302ee55b31d4d3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/phero/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f64479a2c7379f7b2d292db104483ae1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/phero/AndroidStudioProjects/parseprojectoff/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/a065c453327b9f4c2543594cd90a1c4b/AndroidManifest.xml:28:9-32
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e1b3a2f974f17704b576e52cc0842647/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/8b302a5b8daebb68cb32d995271cbc35/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f4f471d39b1aa5a5f3a69faddedcd789/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/21b3a8e1ddd745efbf2f4fa5ab1e58b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f19962df69b7851dbbb8d35c7fbf2914/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/186201638cd7e2dd96fc5aa79b75e2ab/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /home/phero/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96af369b0a963a24d1be9a6030f6fad6/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/b22ac8238431c2144edede502e772cec/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/phero/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/158167d3cd00c983dca5319128189e15/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/phero/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5e3fee5ff16e870528552d343ec4270b/AndroidManifest.xml:26:13-58
